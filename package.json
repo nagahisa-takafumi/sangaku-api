@@ -1,0 +1,26 @@
+{
+  "name": "sangaku-api",
+  "version": "1.0.0",
+  "description": "産学連携のAPI用モジュール",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagahisa-takafumi/sangaku-api.git"
+  },
+  "author": "sangaku backend team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nagahisa-takafumi/sangaku-api/issues"
+  },
+  "homepage": "https://github.com/nagahisa-takafumi/sangaku-api#readme",
+  "dependencies": {
+    "typescript": "^5.1.3",
+    "@types/jest": "^29.5.2"
+  }
+}
