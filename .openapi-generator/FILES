@@ -1,0 +1,14 @@
+.openapi-generator-ignore
+apis/BreweryApi.ts
+apis/SakeApi.ts
+apis/index.ts
+index.ts
+models/BreweryDetail.ts
+models/BreweryInfo.ts
+models/BreweryPlace.ts
+models/ModelError.ts
+models/Sake.ts
+models/Sake2.ts
+models/SakeDetail.ts
+models/index.ts
+runtime.ts
